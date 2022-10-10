@@ -5,6 +5,10 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.1 (2022-10-03)
 
+### Patch Changes
+- Updated dependencies
+
+
 ### Features
 
 - export types ([11b5fb9](https://github.com/romankurnovskii/REPO/commit/11b5fb93XXXXX))
