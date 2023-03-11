@@ -23,13 +23,13 @@ abide by its terms.
 
 ## License
 
-[CC-BY-4.0][license] © [Titus Wormer][author].
+[CC-BY-4.0][license] © [Roman Kurnovskii][author].
 
 <!-- Definitions -->
 
 [license]: https://creativecommons.org/licenses/by/4.0/
 
-[author]: https://wooorm.com
+[author]: https://romankurnovskii.com
 
 [coc]: code-of-conduct.md
 
